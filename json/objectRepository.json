@@ -1,0 +1,12 @@
+{
+    "home": {
+        "loggedInLabel":".ng-scope p:first-of-type",
+        "logOutLink":".ng-scope p a"
+    },
+    "registrationLogin":    {
+        "userName": "username",
+        "password": "password",
+        "userName2ndField": "model[options.key]",
+        "loginButton": ".form-actions button"
+    }
+}

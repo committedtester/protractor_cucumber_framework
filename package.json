@@ -1,0 +1,31 @@
+{
+  "name": "protractor_cucumber_webdriver_framework",
+  "version": "1.0.0",
+  "description": "committed Tester's Protractor Cucumber Framework",
+  "main": "conf.js",
+  "dependencies": {
+    "cucumber": "^3.0.3",
+    "protractor": "~5.1.2",
+    "protractor-cucumber-framework": "^4.0.8",
+    "selenium-webdriver": "^3.6.0",
+    "chromedriver": "^2.33.0",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "expect-to-be-a-promise": "1.0.2"
+  },
+  "devDependencies": {
+    "jshint": "2.9.5"
+  },
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/committedtester/protractor_framework"
+  },
+  "keywords": [
+    "tbd"
+  ],
+  "author": "committed Tester",
+  "license": "UNLICENSED"
+}
